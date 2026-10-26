@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.log
+# build config
+copy:
+  - src/**
+  - package.json
+node_modules/
+dist/
+*.log
